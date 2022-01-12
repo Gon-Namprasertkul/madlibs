@@ -22,7 +22,7 @@ fn main() {
     println!("");
     println!("");
     println!("");
-    print!("Roses are {}", color1);
+    print!("Roses are {} ", color1);
     print!("Violets are {}", color2);
     print!("Sugar is {}", taste);
     print!("And so are {}", person);
